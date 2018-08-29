@@ -1,0 +1,5 @@
+package com.qa.springDBApp.exceptions;
+
+public class ResourceNotFoundException extends RuntimeException {
+
+}

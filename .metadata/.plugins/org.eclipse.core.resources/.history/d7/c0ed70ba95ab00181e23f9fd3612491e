@@ -1,0 +1,5 @@
+package com.qa.springDBApp.model;
+
+public class mySpringBootDataModel {
+
+}
